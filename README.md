@@ -21,5 +21,6 @@ Increase pizza sales based on 2015 data and make better decisions for 2016.
 
 - **All the required KPI's are also done using SQL in the [Pizza Sales SQL Queries](https://github.com/REXITOR/Pizza_Sales/blob/master/Pizza%20Sales%20SQL%20Queries.docx) file**.
 - **The insights obtained from the charts are written on the left side of the created dashboard**.
+- **You can see the details of the charts in the [Dashboard](https://github.com/REXITOR/Pizza_Sales/blob/master/Dashboard.xlsx) file**.
 
 ![Excel Project Preview](https://github.com/REXITOR/Pizza_Sales/blob/master/Project%20Preview.png)
