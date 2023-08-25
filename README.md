@@ -1,7 +1,7 @@
 # Objective
 Increase pizza sales based on 2015 data and make better decisions for 2016.
 
-## KPI's Requirement
+## KPIs Requirement
 1. Total Revenue
 2. Average Order Value
 3. Total Pizzas Sold
