@@ -23,4 +23,4 @@ Increase pizza sales based on 2015 data and make better decisions for 2016.
 - **You can see the details of the charts in the [Dashboard](https://github.com/REXITOR/Pizza_Sales/blob/master/Dashboard.xlsx) file**.
 - **The insights obtained from the charts are written on the left side of the created dashboard**.
 
-![Excel Project Preview](https://github.com/REXITOR/Pizza_Sales/blob/master/Project%20Preview.png)
+![Excel Project Preview](https://github.com/REXITOR/Pizza_Sales_Dashboard/blob/master/Project%20Preview.png)
